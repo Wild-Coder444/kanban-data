@@ -20,6 +20,9 @@ body {
   padding-left: 1em;
   align-items: center;
   color: white;
+  position: sticky;
+  top: 0%;
+  background-color:rgb(16, 16, 16);
 }
 
 .section {
